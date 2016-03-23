@@ -1,27 +1,19 @@
 {
-    "portfolio": [
+    "things": [
         {
-            "proj1": [
-                {
-                    "name": "portfolio",
-                    "img": "awfe",
-                    "desc": "wef"
-                }
-            ],
-            "proj2": [
-                {
-                    "name": "awef",
-                    "img": "eawf",
-                    "desc": "eawf"
-                }
-            ]
-            }
-        ],
-    "contact": [
+            "name": "Golf",
+            "img": "img/golf.jpg",
+            "favs": ["Driver", "Putter", "Lob Wedge"]
+        },
         {
-            "email": "eawf",
-            "github": "awef",
-            "linkedIN": "awef"
-            }
-        ]
+            "name": "Video Games",
+            "img": "img/videoGames.jpg",
+            "favs": ["Clash of Clans", "Elder Scrolls", "NHL"]
+        },
+        {
+            "name": "Snowboarding",
+            "img": "img/snowboarding.jpg",
+            "favs": ["Freeride", "Park", "Half-pipe"]
+        }
+    ]
 }
