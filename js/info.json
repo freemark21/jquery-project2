@@ -1,0 +1,27 @@
+{
+    "portfolio": [
+        {
+            "proj1": [
+                {
+                    "name": "portfolio",
+                    "img": "awfe",
+                    "desc": "wef"
+                }
+            ],
+            "proj2": [
+                {
+                    "name": "awef",
+                    "img": "eawf",
+                    "desc": "eawf"
+                }
+            ]
+            }
+        ],
+    "contact": [
+        {
+            "email": "eawf",
+            "github": "awef",
+            "linkedIN": "awef"
+            }
+        ]
+}
